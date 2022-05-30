@@ -1,0 +1,1 @@
+Statics library README file
