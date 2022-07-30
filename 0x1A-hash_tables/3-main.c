@@ -36,7 +36,7 @@ int main(void)
 		if(ht->array[i])
 		{
 			j = 0;
-			printf("index[%lu:%d] key->%s value->%s\n", i, j
+			printf("index[%lu:%d] key->%s value->%s\n", i, j,
 					ht->array[i]->key, ht->array[i]->value);
 			
 			ptr = ht->array[i];
